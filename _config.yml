@@ -30,7 +30,6 @@ comments :
 
 # Internal nav
 nav:
- journal: "baseurl/journal/"
  gallery: "baseurl/gallery/"
  about: "baseurl/about/"
 
